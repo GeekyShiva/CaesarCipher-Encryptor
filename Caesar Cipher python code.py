@@ -3,7 +3,7 @@
  # I have developed this one to better up the understanding of the Cryptography and experimenting Caesar Cipher
  # Its a moderately complex prgram and has a very special feature of brute force.
 
-MAX_KEY_SIZE = 26 # Key can't be bigger than 26(alphabets asshole***)
+MAX_KEY_SIZE = 26 # Key can't be bigger than 26(alphabets asshole*)
 
 def getMode():        #function1
 
@@ -118,5 +118,5 @@ else:
         print(key, getTranslatedMessage('decrypt', message, key))
 
 
-        #Loved my work you bitch,right? XD XD XD
-        # I will explain the brute logic and usage of isalpha in the readme. (read it you d**khead)
+        #Loved my work,right? XD
+        # I will explain the brute logic and usage of isalpha in the readme.
